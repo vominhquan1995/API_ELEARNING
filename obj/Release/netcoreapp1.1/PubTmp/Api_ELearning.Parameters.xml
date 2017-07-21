@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="apiyduoctructuyen" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\ELEARNING\\WEB_SOURCE\\PROJECT\\Web_elearning\\Api_ELearning\\obj\\Release\\netcoreapp1\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

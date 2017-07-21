@@ -1,0 +1,15 @@
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.deps.json
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.runtimeconfig.json
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.runtimeconfig.dev.json
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.dll
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.csprojResolveAssemblyReference.cache
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.AssemblyInfo.cs
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.pdb
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.dll
+D:\PROJECT\ELEARNING\SOURCE\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.pdb
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.deps.json
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.runtimeconfig.json
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\bin\Debug\netcoreapp1.1\Api_ELearning.runtimeconfig.dev.json
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.AssemblyInfo.cs
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.dll
+F:\ELEARNING\WEB_SOURCE\PROJECT\Web_elearning\Api_ELearning\obj\Debug\netcoreapp1.1\Api_ELearning.pdb
